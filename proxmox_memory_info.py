@@ -1,4 +1,3 @@
-#!/bin/python
 from prettytable import PrettyTable
 
 import subprocess
